@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+ <?php
+  $a="welcome to my sight";
+  $b="railway reservation system";
+  <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
